@@ -5,7 +5,7 @@ public class Item extends Product{
 
     float price;
     List<Observer> observers;
-    
+
     public Item(float price){
         this.checkNegativeOrZero(price);
         this.price = price;

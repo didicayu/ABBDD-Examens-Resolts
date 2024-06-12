@@ -1,0 +1,11 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore ZIP files
+*.zip
+
+# Ignore DOC files
+*.doc
+
+# Ignore DOCX files
+*.docx
